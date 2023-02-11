@@ -43,3 +43,14 @@ import glob
 ## Used By
 The project is used by a lot of fintech companies and stock market analysists to analyze their mrket and work up theirp related policies.
 
+
+
+##OUTPUT
+
+![image](https://user-images.githubusercontent.com/92213377/218244978-2327e659-4858-43f8-bea1-062bb63e6a34.png)
+![image](https://user-images.githubusercontent.com/92213377/218244999-778e3b6b-593d-42c6-969a-871b4c38a8a5.png)
+![image](https://user-images.githubusercontent.com/92213377/218245010-115fcc22-8735-4bef-b194-0fa9946c13b7.png)
+![image](https://user-images.githubusercontent.com/92213377/218245018-8500092c-6c10-40c2-b59b-03d7db6d8851.png)
+
+
+
